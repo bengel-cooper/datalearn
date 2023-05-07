@@ -13,7 +13,7 @@
 <img src="https://github.com/bengel-cooper/datalearn/blob/main/DE-101/Module1/Diagram_1.jpg">
 3. Был создан Excel [файл](Dashboard.xlsx) со сводными таблицами и дашбордом
 <img src="https://github.com/bengel-cooper/datalearn/blob/main/DE-101/Module1/Dashboard.png">
-
+<img src="https://github.com/bengel-cooper/datalearn/blob/main/DE-101/Module1/Map.jpg">
 
 
 
