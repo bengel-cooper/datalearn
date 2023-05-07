@@ -10,8 +10,8 @@
 
 1. Был создан [новый репозиторий](https://github.com/bengel-cooper/datalearn) в GitHub
 2. Была создана [диаграмма](Diagram_1.jpg) в Draw io
-<img src="https://github.com/bengel-cooper/datalearn/blob/main/DE-101/Module1/Diagram_1.jpg">
-3. Был создан Excel [файл](Dashboard1.xlsx) со сводными таблицами и дашбордом
+![ ](Diagram_1.jpg)
+3. Был создан [файл] (Dashboard1.xlsx) со сводными таблицами и дашбордом
 <img src="https://github.com/bengel-cooper/datalearn/blob/main/DE-101/Module1/Dashboard.png">
 <img src="https://github.com/bengel-cooper/datalearn/blob/main/DE-101/Module1/Map.JPG">
 
