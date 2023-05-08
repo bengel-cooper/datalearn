@@ -11,7 +11,7 @@
 1. Был создан [новый репозиторий](https://github.com/bengel-cooper/datalearn) в GitHub
 2. Была создана [диаграмма](Diagram_1.jpg) в Draw io
 ![ ](Diagram_1.jpg)
-3. Был создан [файл](Dashboard1.xlsx) со сводными таблицами и дашбордом
+3. Был создан [файл](Dashboard1.xlsx) со сводными таблицами и дашбордом. При использовании фильтра "Order date" при работе с дашбордом важно обратить внимание на то, что минимальный период времени, за который можно получить данные - 1 месяц.
 <img src="https://github.com/bengel-cooper/datalearn/blob/main/DE-101/Module1/Dashboard1.png">
 
 
