@@ -12,8 +12,7 @@
 2. Была создана [диаграмма](Diagram_1.jpg) в Draw io
 ![ ](Diagram_1.jpg)
 3. Был создан [файл](Dashboard1.xlsx) со сводными таблицами и дашбордом
-<img src="https://github.com/bengel-cooper/datalearn/blob/main/DE-101/Module1/Dashboard.png">
-<img src="https://github.com/bengel-cooper/datalearn/blob/main/DE-101/Module1/Map.JPG">
+<img src="https://github.com/bengel-cooper/datalearn/blob/main/DE-101/Module1/Dashboard1.png">
 
 
 
